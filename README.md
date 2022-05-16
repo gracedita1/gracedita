@@ -7,7 +7,7 @@ Saya seorang **Mahasiswa** di [Universitas Mikroskil](https://www.mikroskil.ac.i
 Saya berasal dari jurusan **Teknik Informatika**
 Saya mahasiswa semester 8.\
 Saya sedang mengikuti Studi Independent di Dicoding, (https://www.dicoding.com/) \
-Berikut merupakan Linkedin : linkedin.com/in/grace-dita-a95961231 \
+Berikut merupakan Linkedin : linkedin.com/in/grace-dita-a95961231 
 
 
 <p align="left">
